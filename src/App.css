@@ -1,0 +1,11 @@
+.logo-react {
+  animation: girar 4s infinite linear;
+}
+@keyframes girar {
+  0% {
+    rotate: 0deg;
+  }
+  100% {
+    rotate: 360deg;
+  }
+}
