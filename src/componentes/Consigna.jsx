@@ -5,7 +5,7 @@ export const Consigna = () => {
       <h1 className="font-bold">APP tipo Instagram</h1>
       <span>
         <img
-          src="./src/assets/img/logoInstagram.svg"
+          src="../assets/img/logoInstagram.svg"
           width={"80px"}
           alt="logo instagram"
         />
@@ -14,9 +14,9 @@ export const Consigna = () => {
       <span>
         <img
           className="logo-react"
-          src="./src/assets/img/logoReact.svg"
+          src="../assets/img/logoReact.svg"
           width={"80px"}
-          alt="logo instagram"
+          alt="logo react"
         />
       </span>
       <h3>
